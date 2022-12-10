@@ -1,0 +1,32 @@
+h1{
+    color: rgb(8, 8, 8);
+}
+p{
+    border: 2px;
+}
+.title{
+    text-align: left;
+    
+}
+    .title2{
+        text-align: left;
+
+    }
+.navbar{
+    display: inline; 
+    
+}
+.video{
+    width: 180px;height: 80px;
+}
+.picture{
+    width: 120px;height: 80px;
+}
+.container{
+    display: flex;
+    flex-direction:column;
+}
+.font{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
